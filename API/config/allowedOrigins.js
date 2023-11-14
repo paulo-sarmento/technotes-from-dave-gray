@@ -1,3 +1,3 @@
-const allowedOrigins = ["https://technotes-hlaw.onrender.com"];
+const allowedOrigins = ["https://technotes-hntl.onrender.com"];
 
 export default allowedOrigins;
